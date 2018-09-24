@@ -1,11 +1,16 @@
 _repo: Koneiden-aaressa-Romaani_56030
 _version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Tervas, Mikko
     gutenberg_agent_id: '48636'
     url: http://www.gutenberg.org/2009/agents/48636
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/56030#Koneiden-aaressa-Romaani
 gutenberg_issued: '2017-11-22'
 gutenberg_type: Text
 identifiers:
